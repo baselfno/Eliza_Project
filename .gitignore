@@ -1,0 +1,12 @@
+__pycache__
+__pycache__/
+questions/__pycache__/
+pages/__pycache__/
+
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.py[cod]
+*.pyc
+/__pycache__
